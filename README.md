@@ -1,7 +1,7 @@
 # conway
 
 Simple recreation of conway the game of life in the terminal using object oriented programming and c++ standard 17.  
-Refference: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+Reference: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 # Quick start
 
